@@ -1,0 +1,131 @@
+    1  sudo apt update && sudo apt upgrade -y
+    2  python3 --version
+    3  echo $SHELL
+    4  pwd
+    5  ls
+    6  exit
+    7  ls
+    8  ls -a
+    9  ls -l
+   10  exit
+   11  ls
+   12  pwd
+   13  ls
+   14  mkdir
+   15  mkdir coding-cafe
+   16  ls
+   17  pwd
+   18  mkdir /home/lenovo9845/coding-cafe/week01
+   19  ls
+   20  ls coding-cafe/
+   21  mkdir coding-cafe/week02
+   22  ls coding-cafe
+   23  cd coding-cafe/
+   24  ls
+   25  touch README.md
+   26  ls
+   27  week02/notes.md
+   28  ls
+   29  ls week02
+   30  mkdir coding-cafe/week02/notes.md
+   31  mkdir /home/lenovo9845/coding-cafe/week02/notes.md
+   32  ls week02
+   33  pwd
+   34  ls -a
+   35  ls -l
+   36  exit
+   37  pwd
+   38  ls -a
+   39  ls -l
+   40  mkdir coding-cafe
+   41  cd coding-cafe
+   42  mkdir week01 week02
+   43  touch README.md week02/notes.md
+   44  ls coding cafe week02
+   45  ls coding-cafe week02
+   46  ls week02
+   47  tree
+   48  cd ..
+   49  rm -rf coding-cafe
+   50  ls -l
+   51  pwd
+   52  ls -a
+   53  ls -l
+   54  mkdir coding-cafe
+   55  mkdir /home/lenovo9845/coding-cafe/week01
+   56  mkdir coding-cafe/week02
+   57  ls coding-cafe
+   58  cd coding-cafe/
+   59  touch README.md
+   60  week02/notes.md
+   61  pwd
+   62  ls -a
+   63  ls -l
+   64  mkdir coding-cafe
+   65  mkdir /home/lenovo9845/coding-cafe/week01
+   66  ls coding-cafe/
+   67  mkdir coding-cafe/week02
+   68  cd coding-cafe/
+   69  ls
+   70  touch README.md
+   71  ls
+   72  week02/notes.md
+   73  touch week02/notes.md
+   74  ls coding-cafe/week02\
+   75  ls week02
+   76  cp README.md README-backup.md
+   77  mv README-backup.md week01/
+   78  cd week01
+   79  mv README-backup.md old-readme.md
+   80  ls
+   81  rm old-readme.md
+   82  cd ~/coding-cafe
+   83  echo $PATH
+   84  clear
+   85  history
+   86  pwd
+   87  ls -a
+   88  ls -l
+   89  mkdir coding-cafe
+   90  mkdir /home/lenovo9845/coding-cafe/week01
+   91  cd ~
+   92  rm -rf coding-cafe
+   93  ls -l
+   94  pwd
+   95  ls
+   96  ls -a
+   97  ls -l
+   98  mkdir coding-cafe
+   99  cd coding-cafe
+  100  mkdir week01
+  101  mkdir week02
+  102  touch README.md
+  103  touch week02/notes.md
+  104  ls
+  105  nano week02/notes.md
+  106  echo $path
+  107  echo $PATH
+  108  python3
+  109  nano week02/notes.md
+  110  which ls
+  111  pyton3
+  112  python3 -m venv .venv
+  113  ls
+  114  ls -a
+  115  apt install python3.14-venv
+  116  sudo apt update
+  117  sudo apt install -y python3.14-venv
+  118  cd ~/coding-cafe
+  119  python3 -m venv .venv
+  120  ls
+  121  ls -a
+  122  source .venv/bin/activate
+  123  pip list
+  124  pip install requests
+  125  pip list
+  126  deactivate
+  127  which python3
+  128  man ls
+  129  man man
+  130  nano week02/notes.md
+  131  history > week02/lab01-log.txt
