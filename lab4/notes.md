@@ -29,3 +29,12 @@ The four steps are: 1. Edit/modify files, 2. Check status (`git status`), 3. Sta
 
 ## Question 10
 `README.md` is standard convention across code hosts like GitHub to automatically serve as the homepage documentation for the repository.
+
+## Question 11
+gh auth login configures secure SSH or HTTPS authentication tokens in Git's credential score. This saves your credentials locally so Git can verify your account without requiring a passsword every time.
+
+## Question 12
+The README.md file is automatically rendered on the main front page of the repository. Git hub defaults to displaying README.md to give visitors immediate project documentation.
+
+## Question 13
+No, running GitHub's servers but restricts access only to you and explicitly added collabarator. A non existent repository does not exist anywhere on the remote servers
